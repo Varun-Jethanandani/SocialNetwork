@@ -17,4 +17,5 @@ Route::get('/', function () {
 
 Route::get('posts/like','PostsController@likePostButton');
 Route::post('posts/likePost','PostsController@likePosts');
-Route::resource('posts','PostsController');
+// Route::resource('posts','PostsController');
+nvjfvnjf vf, sv,v
